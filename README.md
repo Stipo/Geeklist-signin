@@ -1,4 +1,5 @@
-Geeklist-signin
-===============
+<strong>Sign in with Geeklist</strong>
 
-Sign in with Geeklist button
+<hr>
+
+Authors: @bwhitham @timsavery

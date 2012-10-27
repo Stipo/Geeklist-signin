@@ -1,0 +1,16 @@
+div.geeklist-sign-in {
+	background-image: url("geeklist-signin-sprite.png");
+	background-position: 0 0;
+	width:158px;
+	height:28px;
+	display: block;
+	cursor: pointer;
+}
+
+div.geeklist-sign-in:hover {
+	background-position: 0 -28px;
+}
+
+div.geeklist-sign-in:active {
+	background-position: 0 -56px;
+}
